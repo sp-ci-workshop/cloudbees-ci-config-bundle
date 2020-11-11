@@ -82,5 +82,5 @@ cloudbees-slack-integration:
       jenkins: "lotysh"
       optedIn: true
       scmId: "lotysh"
-      slack: "REPLACE_USER_EMAIL"
+      slack: "ivan.lotysh@sailpoint.com"
       slackWorkspace: "T010A455W77"
